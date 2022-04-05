@@ -10,7 +10,7 @@ got to the challenge section and download the assets folder to get started
 
 # How to get the repo
 
-please clone the repo from github. there is option to clone or download the zip file choose one
+please clone the repo from github. there is option to clone the repo or download the zip file at right top corner inside code button. choose one
 
 # npm install
 
